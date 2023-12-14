@@ -25,3 +25,4 @@ Given the sensitivity of ecological models to spatial scale, generalisations abo
 **3. Modelling with multiscale variables.** Once variable types are selected and generalised to multiple resolutions, different methods can be used to integrate variable-resolution combinations into models. Here, a predictive stepwise forward selection procedure ([Blanchet et al., 2008](https://doi.org/10.1016/j.ecolmodel.2008.04.001)) was used to retain the variable-resolution combinations that maximised genomic variance, following [Capblancq and Forester (2021)](https://doi.org/10.1111/2041-210X.13722). 
 
 
+[Figure1-5_Box1-1.pdf](https://github.com/as-guillaume/multiscale-landscape-genomics/files/13674092/Figure1-5_Box1-1.pdf)
