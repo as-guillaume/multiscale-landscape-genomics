@@ -1,6 +1,6 @@
 # A multiscale framework for landscape genomic analyses
 
-This repository will provide code and explanations for implementing multiscale frameworks into landscape genomic analyses. This tutorial will be completed in January 2024, providing code to allow others to personalise this framework for their research. The background and outline of the framework are indicated below.
+This repository will provide code and explanations for implementing multiscale frameworks into landscape genomic analyses. This tutorial will be completed in January 2024, providing code to allow others to personalise this framework for their research. The background and outline of the framework are indicated below. An schema of the workflow can be found here: [Three step multiscale framework workflow.pdf](https://github.com/as-guillaume/multiscale-landscape-genomics/files/13674092/Figure1-5_Box1-1.pdf)
 
 This work is associated with the Ph.D. thesis of Annie S. Guillaume at EPFL, Switzerland. The methods presented here are associated with the fourth chapter containing the following article that is currently under review at Evolutionary Applications: 
 Guillaume, A. S., Leempoel, K., Rogivue, A., Gugerli, F., Parisod, C., & Joost, S. (in review). A multiscale framework to integrate very high resolution synthetic environmental variables in genome-environment association studies. Evolutionary Applications.
@@ -25,4 +25,4 @@ Given the sensitivity of ecological models to spatial scale, generalisations abo
 **3. Modelling with multiscale variables.** Once variable types are selected and generalised to multiple resolutions, different methods can be used to integrate variable-resolution combinations into models. Here, a predictive stepwise forward selection procedure ([Blanchet et al., 2008](https://doi.org/10.1016/j.ecolmodel.2008.04.001)) was used to retain the variable-resolution combinations that maximised genomic variance, following [Capblancq and Forester (2021)](https://doi.org/10.1111/2041-210X.13722). 
 
 
-[Figure1-5_Box1-1.pdf](https://github.com/as-guillaume/multiscale-landscape-genomics/files/13674092/Figure1-5_Box1-1.pdf)
+
